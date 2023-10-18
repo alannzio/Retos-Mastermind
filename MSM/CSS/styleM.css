@@ -1,0 +1,47 @@
+*{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#header{
+    margin: auto;
+}
+
+#titulo1{
+    border-radius: 10px;
+    color: black;
+    padding: 10px;
+}
+
+#textMxn{
+    font-size: 20px;
+}
+
+#MxnP{
+    border-radius: 10px;
+    height: 15px;
+}
+
+#USD{
+    border-radius: 15px;
+    background-color: #00cba9;
+    height: 35px;
+    text-decoration: none;
+    color: white;
+}
+
+#Euro{
+    border-radius: 15px;
+    background-color: #00cba9;
+    height: 35px;
+    text-decoration: none;
+    color: white;
+}
+
+#Libra{
+    border-radius: 15px;
+    background-color: #00cba9;
+    height: 35px;
+    text-decoration: none;
+    color: white;
+}
